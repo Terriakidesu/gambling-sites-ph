@@ -1,6 +1,6 @@
 # Hosts blocklist generated from crt.name
-# Source: bingoplus.com, 789.com, megafunalo.com, bigbunny.ph, luckpot.ph, crazywin.ph, 747.live, luckyi.com, digiwin.ph, patokbet.com, mgame.ph, okbet.com, hawkgaming.com, bybet.com, karera.live, s5.com, ggpoker.ph, filbet.com, rlivegame.net, hannliveonline.com, pisogame.com, buenas.ph, igo.ph, sportsplus.ph, inplay.ph, jadesportsbet.com, epicgame.ph, fastwin.ph, pin77.com, gamexsports.com.ph, legendlink.com, luckytayasports.com, megabet-paradise.com, fbmemotion.ph, 123go.com, fairplay.ph, laviergp.com, msw.ph, egamescasino.ph, playtime.ph, nustargame.ph, sulobet.ph, lakiwin.com, deskgame.com, winzir.ph, sg8.casino, blucky.ph, juan365.com, okadaonlinecasino.com, gbet.com, gamezone.ph, luckyworld.ph, bet88.ph, wowgames.com, wilyonaryo.com, king.ph, megaperya.com
-# Total: 6856 hostnames
+# Source: bingoplus.com, 789.com, megafunalo.com, bigbunny.ph, luckpot.ph, crazywin.ph, 747.live, luckyi.com, digiwin.ph, patokbet.com, mgame.ph, okbet.com, hawkgaming.com, bybet.com, karera.live, s5.com, ggpoker.ph, filbet.com, rlivegame.net, hannliveonline.com, pisogame.com, buenas.ph, igo.ph, sportsplus.ph, inplay.ph, jadesportsbet.com, epicgame.ph, fastwin.ph, pin77.com, gamexsports.com.ph, legendlink.com, luckytayasports.com, megabet-paradise.com, fbmemotion.ph, 123go.com, fairplay.ph, laviergp.com, msw.ph, egamescasino.ph, playtime.ph, nustargame.ph, sulobet.ph, lakiwin.com, deskgame.com, winzir.ph, sg8.casino, blucky.ph, juan365.com, okadaonlinecasino.com, gbet.com, gamezone.ph, luckyworld.ph, bet88.ph, wowgames.com, wilyonaryo.com, king.ph, megaperya.com, casinoplus.com.ph
+# Total: 6873 hostnames
 
 0.0.0.0 001-casino.s5.com
 0.0.0.0 001world.s5.com
@@ -129,6 +129,7 @@
 0.0.0.0 acb.s5.com
 0.0.0.0 accelerated-particle-reactor.s5.com
 0.0.0.0 accelerator.s5.com
+0.0.0.0 account.casinoplus.com.ph
 0.0.0.0 account.sg8.casino
 0.0.0.0 acegsr.s5.com
 0.0.0.0 acehcenter.s5.com
@@ -192,6 +193,7 @@
 0.0.0.0 adrugs.s5.com
 0.0.0.0 ads.app.juan365.com
 0.0.0.0 ads.buenas.ph
+0.0.0.0 ads.casinoplus.com.ph
 0.0.0.0 adslworld.s5.com
 0.0.0.0 adultery-cheating-infidelity.s5.com
 0.0.0.0 advanced.s5.com
@@ -531,6 +533,7 @@
 0.0.0.0 api-test-nocdn.okbet.com
 0.0.0.0 api-www.sulobet.ph
 0.0.0.0 api.789.com
+0.0.0.0 api.casinoplus.com.ph
 0.0.0.0 api.cg.megaperya.com
 0.0.0.0 api.fbmemotion.ph
 0.0.0.0 api.loginph.747.live
@@ -715,6 +718,7 @@
 0.0.0.0 awmahr.s5.com
 0.0.0.0 awo.s5.com
 0.0.0.0 aws.bingoplus.com
+0.0.0.0 aws.casinoplus.com.ph
 0.0.0.0 aws.filbet.com
 0.0.0.0 aws.gbet.com
 0.0.0.0 awsuga.s5.com
@@ -1196,6 +1200,7 @@
 0.0.0.0 casinogame.s5.com
 0.0.0.0 casinoinvest.s5.com
 0.0.0.0 casinopassion.s5.com
+0.0.0.0 casinoplus.com.ph
 0.0.0.0 cassa.s5.com
 0.0.0.0 cassels.s5.com
 0.0.0.0 castlelachlan.s5.com
@@ -1488,6 +1493,7 @@
 0.0.0.0 cousinsweb.s5.com
 0.0.0.0 coyuca.s5.com
 0.0.0.0 coyucadb.s5.com
+0.0.0.0 cp-images-tencent.casinoplus.com.ph
 0.0.0.0 cpu.s5.com
 0.0.0.0 crackurz.s5.com
 0.0.0.0 crackz.s5.com
@@ -2313,6 +2319,7 @@
 0.0.0.0 forolacanmed.s5.com
 0.0.0.0 fortress.s5.com
 0.0.0.0 forum.app.juan365.com
+0.0.0.0 forum.casinoplus.com.ph
 0.0.0.0 forum.content.bet88.ph
 0.0.0.0 forum.deskgame.com
 0.0.0.0 forum.eu-swarm-live.747.live
@@ -2770,6 +2777,7 @@
 0.0.0.0 hollydrive.s5.com
 0.0.0.0 home.123go.com
 0.0.0.0 home.buenas.ph
+0.0.0.0 home.casinoplus.com.ph
 0.0.0.0 home.content.bet88.ph
 0.0.0.0 homegroup.s5.com
 0.0.0.0 homeimprovementnetwork.s5.com
@@ -2980,6 +2988,7 @@
 0.0.0.0 jacamo.s5.com
 0.0.0.0 jacco.s5.com
 0.0.0.0 jacinto.s5.com
+0.0.0.0 jackpot-lp.casinoplus.com.ph
 0.0.0.0 jackrudra.s5.com
 0.0.0.0 jacksmadi.s5.com
 0.0.0.0 jade-bet-adapter.jadesportsbet.com
@@ -3540,6 +3549,7 @@
 0.0.0.0 lucky.king.ph
 0.0.0.0 luckyali.s5.com
 0.0.0.0 luckyi.com
+0.0.0.0 luckyplus-v7-prod.casinoplus.com.ph
 0.0.0.0 luckytayasports.com
 0.0.0.0 luckywheel.747.live
 0.0.0.0 luckyworld.ph
@@ -3566,6 +3576,7 @@
 0.0.0.0 m.747.live
 0.0.0.0 m.bingoplus.com
 0.0.0.0 m.buenas.ph
+0.0.0.0 m.casinoplus.com.ph
 0.0.0.0 m.crazywin.ph
 0.0.0.0 m.filbet.com
 0.0.0.0 m.gbet.com
@@ -3731,6 +3742,7 @@
 0.0.0.0 maya-playtime.playtime.ph
 0.0.0.0 maya-spintime.playtime.ph
 0.0.0.0 maya.bingoplus.com
+0.0.0.0 maya.casinoplus.com.ph
 0.0.0.0 maya.egamescasino.ph
 0.0.0.0 maya.fairplay.ph
 0.0.0.0 mayamin.s5.com
@@ -3759,6 +3771,7 @@
 0.0.0.0 mecatronic.s5.com
 0.0.0.0 media-affiliates.megaperya.com
 0.0.0.0 media.747.live
+0.0.0.0 media.casinoplus.com.ph
 0.0.0.0 media05.s5.com
 0.0.0.0 media2-affiliates.megaperya.com
 0.0.0.0 medic9.s5.com
@@ -5722,6 +5735,7 @@
 0.0.0.0 statistics.747.live
 0.0.0.0 statistics.s5.com
 0.0.0.0 stats.buenas.ph
+0.0.0.0 stats.casinoplus.com.ph
 0.0.0.0 stats.filbet.com
 0.0.0.0 stats.lakiwin.com
 0.0.0.0 stats.sb.luckytayasports.com
@@ -5970,6 +5984,7 @@
 0.0.0.0 test-third-game-service.789.com
 0.0.0.0 test-third-manage.789.com
 0.0.0.0 test.789.com
+0.0.0.0 test.casinoplus.com.ph
 0.0.0.0 test.crazywin.ph
 0.0.0.0 test.juan365.com
 0.0.0.0 test.okbet.com
@@ -6526,6 +6541,7 @@
 0.0.0.0 wickedklownz.s5.com
 0.0.0.0 wickes.s5.com
 0.0.0.0 wigs.s5.com
+0.0.0.0 wiki.casinoplus.com.ph
 0.0.0.0 wiki.eventapi-huawei.okbet.com
 0.0.0.0 wil.s5.com
 0.0.0.0 wildcard.747.live
@@ -6629,6 +6645,7 @@
 0.0.0.0 www.buenas.ph
 0.0.0.0 www.bybet.com
 0.0.0.0 www.caribbeanfestivalofpalmcoast.s5.com
+0.0.0.0 www.casinoplus.com.ph
 0.0.0.0 www.corsicas.s5.com
 0.0.0.0 www.crazywin.ph
 0.0.0.0 www.cursogestioncomunal.s5.com
