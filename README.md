@@ -8,8 +8,8 @@ Seed apex domains are listed in [`sites.txt`](sites.txt). Every subdomain on fil
 
 | File | Format | Entries | Raw URL |
 |------|--------|---------|---------|
-| `hostfiles/hosts.txt` | hosts (`0.0.0.0 domain`) | 6873 | https://raw.githubusercontent.com/Terriakidesu/gambling-sites-ph/main/hostfiles/hosts.txt |
-| `hostfiles/domains.txt` | plain domains, one per line | 6,873 | https://raw.githubusercontent.com/Terriakidesu/gambling-sites-ph/main/hostfiles/domains.txt |
+| `hostfiles/hosts.txt` | hosts (`0.0.0.0 domain`) | 6,988 | https://raw.githubusercontent.com/Terriakidesu/gambling-sites-ph/main/hostfiles/hosts.txt |
+| `hostfiles/domains.txt` | plain domains, one per line | 6,988 | https://raw.githubusercontent.com/Terriakidesu/gambling-sites-ph/main/hostfiles/domains.txt |
 
 Both formats are accepted by Pi-hole; use one or the other, not both.
 
