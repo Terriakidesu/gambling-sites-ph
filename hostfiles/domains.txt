@@ -38,6 +38,7 @@
 2ndannfieldplain.s5.com
 2pacenter.s5.com
 2seer.s5.com
+2ybnvurgfuguhnzd.playdailyfantasy.com
 305.s5.com
 31337.s5.com
 353.s5.com
@@ -72,6 +73,7 @@
 747.live
 757aviation.s5.com
 789.com
+789bingo.com
 7asebat.s5.com
 7millionplan.s5.com
 8472.s5.com
@@ -125,7 +127,6 @@ acadell.s5.com
 acb.s5.com
 accelerated-particle-reactor.s5.com
 accelerator.s5.com
-account.casinoplus.com.ph
 account.sg8.casino
 acegsr.s5.com
 acehcenter.s5.com
@@ -172,6 +173,7 @@ admin-montecarlo.egamescasino.ph
 admin-ui-old.filbet.com
 admin-ui.filbet.com
 admin.747.live
+admin.arionplay.com
 admin.bet88.ph
 admin.bingoplus.com
 admin.fairplay.ph
@@ -182,14 +184,16 @@ admin.king.ph
 admin.loginph.747.live
 admin.megaperya.com
 admin.pisogame.com
+admin.playdailyfantasy.com
 admin.sulobet.ph
 admiralmuddandfriendssitering.s5.com
 adogen.789.com
 adopcion.s5.com
 adrugs.s5.com
+ads.apih5.ninogaming.com
 ads.app.juan365.com
+ads.arionplay.com
 ads.buenas.ph
-ads.casinoplus.com.ph
 adslworld.s5.com
 adultery-cheating-infidelity.s5.com
 advanced.s5.com
@@ -236,6 +240,7 @@ agent.inplay.ph
 agent.megabet-paradise.com
 agent.s5.com
 agent.sulobet.ph
+agentadmin.arionplay.com
 agents.747.live
 agents.mpcagayan.megaperya.com
 agents.winzir.ph
@@ -334,6 +339,7 @@ ali-cdn-test.bingoplus.com
 ali-dabiri.s5.com
 ali-h5-temp.bingoplus.com
 ali-temp-social.bingoplus.com
+ali-temp.arenaplus.ph
 ali-web-temp.bingoplus.com
 ali007.s5.com
 ali85.s5.com
@@ -447,6 +453,7 @@ amydumas.s5.com
 amymonigal.s5.com
 anacasaclub.s5.com
 anahtar.s5.com
+analytics.apih5.ninogaming.com
 ananthan.s5.com
 anarchism.s5.com
 anarki666.s5.com
@@ -529,7 +536,8 @@ api-super.sulobet.ph
 api-test-nocdn.okbet.com
 api-www.sulobet.ph
 api.789.com
-api.casinoplus.com.ph
+api.789bingo.com
+api.arionplay.com
 api.cg.megaperya.com
 api.fbmemotion.ph
 api.loginph.747.live
@@ -541,10 +549,12 @@ api.pisogame.com
 api.s5.com
 api.staging.megaperya.com
 api70.fastwin.ph
+apih5.ninogaming.com
 apn.s5.com
 apotur.s5.com
 app-service.789.com
 app.747.live
+app.arenaplus.ph
 app.fastwin.ph
 app.filbet.com
 app.juan365.com
@@ -586,6 +596,7 @@ ardagraphic.s5.com
 ardmusic.s5.com
 area51.s5.com
 arena51.s5.com
+arenaplus.ph
 arfli.s5.com
 argentinatangofolk.s5.com
 argf.s5.com
@@ -595,6 +606,7 @@ ariani.s5.com
 arica.s5.com
 arielcabral.s5.com
 arielsoto.s5.com
+arionplay.com
 arioso.s5.com
 arkadash.s5.com
 arlingtonsucks.s5.com
@@ -643,6 +655,7 @@ asonas.s5.com
 asplus.s5.com
 asram.s5.com
 asrul.s5.com
+assets.789bingo.com
 assets.content.bet88.ph
 assets.eu-swarm-springre.747.live
 assets.filbet.com
@@ -680,6 +693,7 @@ audiohairspray.s5.com
 austral.s5.com
 auth.fastwin.ph
 auth.inplay.ph
+auth.playdailyfantasy.com
 auth.staging.fastwin.ph
 auth.staging.inplay.ph
 authen7e.s5.com
@@ -714,7 +728,6 @@ aweyska.s5.com
 awmahr.s5.com
 awo.s5.com
 aws.bingoplus.com
-aws.casinoplus.com.ph
 aws.filbet.com
 aws.gbet.com
 awsuga.s5.com
@@ -732,6 +745,7 @@ azmil.s5.com
 aznewsletters.s5.com
 aznmethud.s5.com
 azoz.s5.com
+azure.arenaplus.ph
 azure.buenas.ph
 azzamgroup.s5.com
 b.a.bears.s5.com
@@ -838,6 +852,7 @@ bayside.s5.com
 baza.s5.com
 bazaar.s5.com
 bazgiret.s5.com
+bb.arionplay.com
 bbc.de.asterd.s5.com
 bckeno-ws.747.live
 bckeno.747.live
@@ -964,6 +979,8 @@ blfci.s5.com
 blighted.s5.com
 blister.s5.com
 blog.789.com
+blog.789bingo.com
+blog.arenaplus.ph
 blog.bingoplus.com
 blog.king.ph
 blog.loginph.747.live
@@ -1191,12 +1208,13 @@ cashcows.s5.com
 cashier.inplay.ph
 casino-casinos-gambling-free-money.s5.com
 casino.747.live
+casino.arenaplus.ph
 casino.es.s5.com
 casinobonus.s5.com
 casinogame.s5.com
+casinogames.arenaplus.ph
 casinoinvest.s5.com
 casinopassion.s5.com
-casinoplus.com.ph
 cassa.s5.com
 cassels.s5.com
 castlelachlan.s5.com
@@ -1319,6 +1337,7 @@ chupa.s5.com
 chupacabra.s5.com
 churchofpirateology.s5.com
 chxtasworld.s5.com
+ci.789bingo.com
 ci.content.bet88.ph
 ci.gamezone.ph
 cicersshuo.s5.com
@@ -1489,7 +1508,6 @@ coure.s5.com
 cousinsweb.s5.com
 coyuca.s5.com
 coyucadb.s5.com
-cp-images-tencent.casinoplus.com.ph
 cpu.s5.com
 crackurz.s5.com
 crackz.s5.com
@@ -1715,6 +1733,7 @@ dessu.s5.com
 detaspa.s5.com
 dev-10.789.com
 dev-2.789.com
+dev-admin.arionplay.com
 dev-agent-admin-h5.789.com
 dev-agent-admin.789.com
 dev-agent.789.com
@@ -1742,6 +1761,8 @@ dev-third-api.789.com
 dev-third-ctrl.789.com
 dev-upload.789.com
 dev.789.com
+dev.789bingo.com
+dev.arionplay.com
 dev.bingoplus.com
 dev.deskgame.com
 dev.fairplay.ph
@@ -1749,6 +1770,7 @@ dev.karera.live
 dev.s5.com
 dev.sg8.casino
 dev1.karera.live
+devadmin.arionplay.com
 devcomposer.s5.com
 development.crazywin.ph
 devotee.s5.com
@@ -1881,11 +1903,13 @@ doublefantasy.s5.com
 doubletrouble.s5.com
 dougandericshow.s5.com
 download.789.com
+download.789bingo.com
 download.luckyi.com
 download.luckytayasports.com
 download.okbet.com
 downloadonlyanime.s5.com
 downloads.eu-swarm-live.747.live
+downloads.hannonline.ph
 downloadtij.s5.com
 downlod.dilse.s5.com
 dr.a.brunner.s5.com
@@ -2065,8 +2089,11 @@ elysium.s5.com
 em.egamescasino.ph
 em60j.s5.com
 email.747.live
+email.789bingo.com
+email.casino.arenaplus.ph
 email.fastwin.ph
 email.noreply.email.juan365.com
+email.promo.arenaplus.ph
 email.s5.com
 email.yahoo.s5.com
 emanciadancecompany.s5.com
@@ -2170,6 +2197,7 @@ exjam.s5.com
 exoduswrestling.s5.com
 explorers2205.s5.com
 expresosinger.s5.com
+external.arenaplus.ph
 external.bingoplus.com
 extremebackyardwrestling.s5.com
 extremesuzuki4x4club.s5.com
@@ -2231,8 +2259,10 @@ fb2.789.com
 fbcworld.s5.com
 fbgsecurity.s5.com
 fbmemotion.ph
+fbmplay.com
 fbslhistory.s5.com
 fcgsonido.s5.com
+fe.arionplay.com
 fearincarnate.s5.com
 fedora.s5.com
 felsefetarihi.s5.com
@@ -2257,7 +2287,11 @@ fidgetymind.s5.com
 fighterplanes.s5.com
 filbet.com
 file.s5.com
+files.789bingo.com
+files.apih5.ninogaming.com
 files.bigbunny.ph
+files.hannonline.ph
+files.playdailyfantasy.com
 filialneuquen.s5.com
 filipa.s5.com
 fillius-lex-bohemia.s5.com
@@ -2315,7 +2349,6 @@ formosa-servicios.s5.com
 forolacanmed.s5.com
 fortress.s5.com
 forum.app.juan365.com
-forum.casinoplus.com.ph
 forum.content.bet88.ph
 forum.deskgame.com
 forum.eu-swarm-live.747.live
@@ -2461,6 +2494,7 @@ gcard.s5.com
 gcash-cardtime.playtime.ph
 gcash-pinoytime.playtime.ph
 gcash-spintime.playtime.ph
+gcash.arenaplus.ph
 gcash.playtime.ph
 gcfc65.s5.com
 gcsarchive.s5.com
@@ -2479,6 +2513,7 @@ gerson.s5.com
 getskammed.s5.com
 geute.s5.com
 geylove.s5.com
+gfe.arionplay.com
 ggi.s5.com
 ggoo1.s5.com
 ggpoker.ph
@@ -2503,10 +2538,12 @@ ginjoyce.s5.com
 girltalk.s5.com
 giselle-intima.s5.com
 gisetech.s5.com
+git.hannonline.ph
 git.playtime.ph
 gitarist.s5.com
 gitarvekemanatolyesi.s5.com
 gitlab.app.juan365.com
+gitlab.arenaplus.ph
 gitlab.content.bet88.ph
 gitlab.eu-swarm-springre.747.live
 gitlab.gamezone.ph
@@ -2575,6 +2612,7 @@ grafana.app.juan365.com
 grafana.content.bet88.ph
 grafana.loginph.747.live
 grafana.megaperya.com
+grafana.playdailyfantasy.com
 graffmatic.s5.com
 grafitectura.s5.com
 graha2000.s5.com
@@ -2674,6 +2712,7 @@ handumanansouvenirshop.s5.com
 handycraft.s5.com
 hanereisse.s5.com
 hannliveonline.com
+hannonline.ph
 hanpijesak.s5.com
 happy.king.ph
 haqiqatolhaqali.s5.com
@@ -2717,6 +2756,7 @@ helios003.egamescasino.ph
 helldogs.s5.com
 helon-murphy.s5.com
 help.app.juan365.com
+help.arenaplus.ph
 help.gbet.com
 help.winzir.ph
 helpgroup.s5.com
@@ -2772,8 +2812,8 @@ holiday.s5.com
 holiglowcandlecompany.s5.com
 hollydrive.s5.com
 home.123go.com
+home.789bingo.com
 home.buenas.ph
-home.casinoplus.com.ph
 home.content.bet88.ph
 homegroup.s5.com
 homeimprovementnetwork.s5.com
@@ -2782,6 +2822,7 @@ homeschool.s5.com
 hometaping.s5.com
 homework.747.live
 homework4real.s5.com
+honorplayer.playdailyfantasy.com
 honourableolusegun.s5.com
 honrawayjwany.s5.com
 hoo.s5.com
@@ -2807,6 +2848,8 @@ hsl.s5.com
 ht.s5.com
 huawei.okbet.com
 hub.api.okbet.com
+hub.arionplay.com
+hub.hannonline.ph
 huds.s5.com
 hulikeghei.s5.com
 humanrights.s5.com
@@ -2866,6 +2909,7 @@ imap.loginph.747.live
 imcg.s5.com
 img.789.com
 img.android-v2.bingoplus.com
+img.arenaplus.ph
 img.brevo.sg8.casino
 img.buenas.ph
 img.content.bet88.ph
@@ -2911,6 +2955,7 @@ intelligense.s5.com
 inter-publishing.s5.com
 interclub.s5.com
 interflora.s5.com
+internal.hannonline.ph
 internalconflict.s5.com
 international-friends-of-kurdistan.s5.com
 internet-boost.s5.com
@@ -2928,6 +2973,7 @@ invisibleinc.s5.com
 iod.s5.com
 iop.s5.com
 ipa.s5.com
+iphonegiveaway.playdailyfantasy.com
 ipnet.s5.com
 ipnosi.s5.com
 ipul.s5.com
@@ -2984,7 +3030,6 @@ j305.s5.com
 jacamo.s5.com
 jacco.s5.com
 jacinto.s5.com
-jackpot-lp.casinoplus.com.ph
 jackrudra.s5.com
 jacksmadi.s5.com
 jade-bet-adapter.jadesportsbet.com
@@ -3013,6 +3058,7 @@ jaraghe.s5.com
 jart.s5.com
 jasonduvernay.s5.com
 jasone.s5.com
+jasontest02-grayscale-c.arenaplus.ph
 jass.s5.com
 jassim.s5.com
 jaufer.s5.com
@@ -3319,6 +3365,7 @@ lagos.s5.com
 lak.s5.com
 lakalka.s5.com
 lakesox.s5.com
+laki.playdailyfantasy.com
 lakiwin.com
 laledevricini.s5.com
 lalefm.s5.com
@@ -3409,6 +3456,7 @@ leschimney.s5.com
 letra.s5.com
 letra2.s5.com
 letras.s5.com
+lets.playdailyfantasy.com
 leventyuruk.s5.com
 leviatanmorelia.s5.com
 levittownsk8.s5.com
@@ -3468,6 +3516,7 @@ live.bet88.ph
 live.juan365.com
 livecam.s5.com
 liveset.s5.com
+livestream.arenaplus.ph
 livinglegends.s5.com
 livingston.s5.com
 ljubav.s5.com
@@ -3486,6 +3535,7 @@ lodos.s5.com
 loftus.s5.com
 login.747.live
 login.app.juan365.com
+login.arenaplus.ph
 loginph.747.live
 lokurafc.s5.com
 lomashall.s5.com
@@ -3545,7 +3595,6 @@ lucky.bingoplus.com
 lucky.king.ph
 luckyali.s5.com
 luckyi.com
-luckyplus-v7-prod.casinoplus.com.ph
 luckytayasports.com
 luckywheel.747.live
 luckyworld.ph
@@ -3570,9 +3619,9 @@ m-kamal.s5.com
 m-old-b.s5.com
 m-partners.bet88.ph
 m.747.live
+m.789bingo.com
 m.bingoplus.com
 m.buenas.ph
-m.casinoplus.com.ph
 m.crazywin.ph
 m.filbet.com
 m.gbet.com
@@ -3609,6 +3658,7 @@ mahad.s5.com
 mahamed-libya.s5.com
 mahmoud-subuh.s5.com
 maiflorist.s5.com
+mail.789bingo.com
 mail.bet88.ph
 mail.bingoplus.com
 mail.content.bet88.ph
@@ -3623,6 +3673,7 @@ mail.loginph.747.live
 mail.okbet.com
 mail.ph.747.live
 mail1.eu-swarm-springre.747.live
+mail2.apih5.ninogaming.com
 mail2.bigbunny.ph
 mail2.bingoplus.com
 mail2.gamezone.ph
@@ -3635,6 +3686,7 @@ mailingcirculars.s5.com
 mainstage.s5.com
 maintain-page.juan365.com
 maintenance.789.com
+maintenance.789bingo.com
 maintenance.crazywin.ph
 maintenance.filbet.com
 maintenance.juan365.com
@@ -3738,7 +3790,6 @@ maya-pinoytime.playtime.ph
 maya-playtime.playtime.ph
 maya-spintime.playtime.ph
 maya.bingoplus.com
-maya.casinoplus.com.ph
 maya.egamescasino.ph
 maya.fairplay.ph
 mayamin.s5.com
@@ -3767,7 +3818,6 @@ mecaintec.s5.com
 mecatronic.s5.com
 media-affiliates.megaperya.com
 media.747.live
-media.casinoplus.com.ph
 media05.s5.com
 media2-affiliates.megaperya.com
 medic9.s5.com
@@ -4104,6 +4154,8 @@ navyseal.s5.com
 navyseals.s5.com
 nazire.s5.com
 nazurah.s5.com
+nba-finals-clutch-run.playdailyfantasy.com
+nba.arenaplus.ph
 ncaa19kr.s5.com
 ncappclub.s5.com
 ncbow.s5.com
@@ -4163,6 +4215,7 @@ nikkon.s5.com
 nilegroup.s5.com
 ninja.s5.com
 ninjaslut.s5.com
+ninogaming.com
 nintendoforever.s5.com
 niore.s5.com
 nislija.s5.com
@@ -4207,6 +4260,7 @@ notquitewhite.s5.com
 novatorax.s5.com
 nowherian.s5.com
 nrlsims.s5.com
+ns1.arenaplus.ph
 ns1.loginph.747.live
 ns1.okadaonlinecasino.com
 ns1.s5.com
@@ -4214,6 +4268,7 @@ ns2.loginph.747.live
 ns2.okadaonlinecasino.com
 ns2.s5.com
 ns3.inplay.ph
+ns4.789bingo.com
 ns4.inplay.ph
 nsh.s5.com
 nsl.s5.com
@@ -4228,6 +4283,7 @@ nuyate.s5.com
 nynex.s5.com
 nzarqashany.s5.com
 nzoughby.s5.com
+o8kackzb5wzm.playdailyfantasy.com
 oabiliria.s5.com
 obl.s5.com
 obsidian.s5.com
@@ -4337,6 +4393,7 @@ outerlimits.s5.com
 outnorth.s5.com
 ov7.s5.com
 oversea.789.com
+oversea.789bingo.com
 overshadow.s5.com
 ovidiu.s5.com
 oviplokossokol.s5.com
@@ -4394,6 +4451,8 @@ parrera.s5.com
 parsuemi.s5.com
 partidoazul.s5.com
 partiyan.s5.com
+partnerdev.arionplay.com
+partners.arionplay.com
 partners.bet88.ph
 partners.megabet-paradise.com
 partybird.s5.com
@@ -4422,6 +4481,8 @@ pay.sulobet.ph
 payment-mnl.789.com
 payments.megaperya.com
 paypal.com.service-update.s5.com
+pba-pickyourway.playdailyfantasy.com
+pba.arenaplus.ph
 pbkphotography.s5.com
 pbmsac.s5.com
 pc-info.s5.com
@@ -4472,6 +4533,7 @@ pg.s5.com
 ph.747.live
 ph.bingoplus.com
 phcuentos.s5.com
+phdev.arionplay.com
 phentermine-pharmacy.s5.com
 phentermine.s5.com
 phil-heroes.s5.com
@@ -4492,6 +4554,8 @@ pianist.s5.com
 picansoresume.s5.com
 picgallery.s5.com
 pick-bus.s5.com
+pickem-world-cup-challenge.playdailyfantasy.com
+picks.playdailyfantasy.com
 piecesofstyx.s5.com
 piera.s5.com
 pigsr5.s5.com
@@ -4535,6 +4599,7 @@ play.bingoplus.com
 play.fastwin.ph
 play.okbet.com
 play.s5.com
+playdailyfantasy.com
 playstation2world.s5.com
 playthesystem.s5.com
 playtime.ph
@@ -4618,9 +4683,11 @@ prashanth.s5.com
 pre-vertical-activity.playtime.ph
 predictor.747.live
 prepemabrio.s5.com
+preprod.arionplay.com
 preprod.karera.live
 pretty.s5.com
 prettystars.s5.com
+preview.hannonline.ph
 preview.loginph.747.live
 prevoyance.s5.com
 preyecobham.s5.com
@@ -4631,6 +4698,7 @@ printport.s5.com
 priscominfotech.s5.com
 privados.s5.com
 private.api.okbet.com
+private.arenaplus.ph
 priyesh.s5.com
 prizes.s5.com
 prmnd3.fairplay.ph
@@ -4638,7 +4706,10 @@ procab.king.ph
 proclear-compatibles-toric-contact-lens.s5.com
 procrastinationracing.s5.com
 procylon.s5.com
+prod-admin.arionplay.com
 prod-nocdn.okbet.com
+prod.arionplay.com
+prod.hannonline.ph
 prod.karera.live
 produsom.s5.com
 proeksing.s5.com
@@ -4652,11 +4723,13 @@ project7.s5.com
 projects.s5.com
 projectz28lt.s5.com
 prom.hannliveonline.com
+prometheus.arenaplus.ph
 prometheus.content.bet88.ph
 prometheus.loginph.747.live
 promo.inplay.ph
 promo.juan365.com
 promotion.mgame.ph
+promotions.arenaplus.ph
 properties.s5.com
 prophetess.s5.com
 prostit.s5.com
@@ -4678,6 +4751,8 @@ psiconsulta.s5.com
 psp.s5.com
 pspnation.s5.com
 psychward.s5.com
+public.apih5.ninogaming.com
+public.arenaplus.ph
 public.content.bet88.ph
 publichealthproject.s5.com
 pubnewsuk.s5.com
@@ -4695,6 +4770,7 @@ purestwrath.s5.com
 pursetours.s5.com
 pushpindermansa.s5.com
 puskin.s5.com
+pwa.arionplay.com
 pwa.okbet.com
 pwagg-install.juan365.com
 pwagg.juan365.com
@@ -4897,6 +4973,7 @@ reg.bingoplus.com
 reg.fastwin.ph
 regan-sue.s5.com
 regicide.s5.com
+register.arenaplus.ph
 rehberlik.s5.com
 reina-abilene.s5.com
 rekie.s5.com
@@ -4930,6 +5007,7 @@ reverse-lookup.s5.com
 reverselookup.s5.com
 revistapersona.s5.com
 revistazona.s5.com
+rewards.arenaplus.ph
 rewoods.s5.com
 rezaamin.s5.com
 rgapi.fastwin.ph
@@ -5033,6 +5111,7 @@ rtjtrj.s5.com
 rtme.s5.com
 rubberbandball.s5.com
 rubbermonkey.s5.com
+rue9z4.789bingo.com
 ruffnerphotography.s5.com
 ruland.s5.com
 rumblefish.s5.com
@@ -5046,6 +5125,7 @@ russianpalm.s5.com
 ruweda.fastwin.ph
 rw3ah.s5.com
 ryan94gt.s5.com
+rye-test.789bingo.com
 ryman.s5.com
 rymans.s5.com
 ryunokurayami.s5.com
@@ -5066,6 +5146,7 @@ s26.789.com
 s27.789.com
 s28.789.com
 s29.789.com
+s3.789bingo.com
 s3.content.bet88.ph
 s3.eu-swarm-live.747.live
 s30.789.com
@@ -5148,6 +5229,8 @@ sanctum.s5.com
 sanctumwallpaper.s5.com
 sandbox-maya.789.com
 sandbox.android-v2.bingoplus.com
+sandbox.arenaplus.ph
+sandbox.arionplay.com
 sandbox.bingoplus.com
 sandbox.content.bet88.ph
 sandbox.deskgame.com
@@ -5301,6 +5384,7 @@ sentido.s5.com
 sentidos.s5.com
 sentvid.s5.com
 seo.blucky.ph
+seo0001.buenas.ph
 seo001.buenas.ph
 seoane.s5.com
 septaredarrow.s5.com
@@ -5640,6 +5724,7 @@ sportnews.s5.com
 sports.msw.ph
 sports.okbet.com
 sportsbook.747.live
+sportsbook.arenaplus.ph
 sportsdigest.s5.com
 sportsplus.ph
 spouse-cheating.s5.com
@@ -5652,6 +5737,7 @@ sps.s5.com
 spsb.s5.com
 spunker88.s5.com
 spy-software-review.s5.com
+sql.arionplay.com
 sql.buenas.ph
 sql.juan365.com
 sql.loginph.747.live
@@ -5700,7 +5786,9 @@ stage.payments.megaperya.com
 stage.s5.com
 stage8.megaperya.com
 staging-api.karera.live
+staging.arionplay.com
 staging.content.bet88.ph
+staging.hannonline.ph
 staging.karera.live
 staging.loginph.747.live
 stair.s5.com
@@ -5724,14 +5812,17 @@ startuem.s5.com
 startupkit.s5.com
 statdicas.s5.com
 static.app.juan365.com
+static.arionplay.com
 static.content.bet88.ph
 static.juan365.com
+static.ninogaming.com
 static.playtime.ph
+staticv3.arionplay.com
+staticv4.arionplay.com
 statisti.s5.com
 statistics.747.live
 statistics.s5.com
 stats.buenas.ph
-stats.casinoplus.com.ph
 stats.filbet.com
 stats.lakiwin.com
 stats.sb.luckytayasports.com
@@ -5776,6 +5867,7 @@ stone-blind.s5.com
 stonedgophers.s5.com
 stonehouse-peninsula.s5.com
 stop-puppymills.s5.com
+storage.arenaplus.ph
 storage.content.bet88.ph
 storage.eu-swarm-live.747.live
 storage.inplay.ph
@@ -5931,6 +6023,7 @@ teamchayyot.s5.com
 teamev1l.s5.com
 teamillusion.s5.com
 teamleominster.s5.com
+teampanda.arionplay.com
 teamredneck.s5.com
 teamsilentassassin.s5.com
 teamwolf.s5.com
@@ -5980,7 +6073,7 @@ test-oversea.789.com
 test-third-game-service.789.com
 test-third-manage.789.com
 test.789.com
-test.casinoplus.com.ph
+test.arionplay.com
 test.crazywin.ph
 test.juan365.com
 test.okbet.com
@@ -6100,6 +6193,7 @@ tiringnhs.s5.com
 tisherself.s5.com
 tko.s5.com
 tkoshooter.s5.com
+tl.playdailyfantasy.com
 tlalpujahua.s5.com
 tmaso.s5.com
 tobas-amazonas.s5.com
@@ -6147,6 +6241,8 @@ townsendacresdogs.s5.com
 toyotasurf.s5.com
 toys.s5.com
 tracerfreelance.s5.com
+track.apih5.ninogaming.com
+track.arionplay.com
 track.content.bet88.ph
 track.email.juan365.com
 tracker.bet88.ph
@@ -6260,6 +6356,8 @@ uat-to-prod-upload.789.com
 uat-to-prod.789.com
 uat-upload.789.com
 uat.789.com
+uat.789bingo.com
+uat.arionplay.com
 uat.inplay.ph
 uat.luckytayasports.com
 uat.megaperya.com
@@ -6292,6 +6390,8 @@ unlicensed.s5.com
 unsure.s5.com
 update.sulobet.ph
 upload.789.com
+upload.apih5.ninogaming.com
+upload.arenaplus.ph
 upload.bigbunny.ph
 upload.bingoplus.com
 upload.filbet.com
@@ -6323,6 +6423,8 @@ v.789.com
 v1.app.juan365.com
 v1.winzir.ph
 v2.android-v2.bingoplus.com
+v2.arenaplus.ph
+v2.arionplay.com
 v3.content.bet88.ph
 v3.fairplay.ph
 vabilonapiknik.s5.com
@@ -6342,6 +6444,7 @@ vasilehuma.s5.com
 vastator.s5.com
 vastbulk.s5.com
 vaticano.s5.com
+vauth.playdailyfantasy.com
 vazi.s5.com
 vbsecurity.s5.com
 vegas-cosmetics.s5.com
@@ -6490,6 +6593,7 @@ webercan.s5.com
 webjuridicopa.s5.com
 weblaw.s5.com
 webmagazine.s5.com
+webmail.789bingo.com
 webmail.content.bet88.ph
 webmail.inplay.ph
 webmail.loginph.747.live
@@ -6537,8 +6641,9 @@ whyhik.s5.com
 wickedklownz.s5.com
 wickes.s5.com
 wigs.s5.com
-wiki.casinoplus.com.ph
+wiki.arenaplus.ph
 wiki.eventapi-huawei.okbet.com
+wiki.hannonline.ph
 wil.s5.com
 wildcard.747.live
 wildcard.bigbunny.ph
@@ -6581,6 +6686,7 @@ wood.s5.com
 wooddale70.s5.com
 woolworths.s5.com
 wordswordswords.s5.com
+world-cup-winner-takes-all.playdailyfantasy.com
 world-traders.s5.com
 worldmapi.fastwin.ph
 worldmbo.fastwin.ph
@@ -6622,12 +6728,15 @@ www-10.789.com
 www.123go.com
 www.747.live
 www.789.com
+www.789bingo.com
 www.acinco.s5.com
 www.adee.s5.com
 www.alazan.s5.com
 www.alfastreet.fastwin.ph
 www.aliham.s5.com
 www.answerpad.s5.com
+www.arenaplus.ph
+www.arionplay.com
 www.arsip-milis.s5.com
 www.asclient.fastwin.ph
 www.bandeo.s5.com
@@ -6641,7 +6750,6 @@ www.blucky.ph
 www.buenas.ph
 www.bybet.com
 www.caribbeanfestivalofpalmcoast.s5.com
-www.casinoplus.com.ph
 www.corsicas.s5.com
 www.crazywin.ph
 www.cursogestioncomunal.s5.com
@@ -6660,6 +6768,7 @@ www.eu-swarm-live.747.live
 www.fairplay.ph
 www.fastwin.ph
 www.fbmemotion.ph
+www.fbmplay.com
 www.filbet.com
 www.finnyjacob.s5.com
 www.foodcraft.s5.com
@@ -6673,6 +6782,7 @@ www.gonzalesonline.s5.com
 www.graylog.s5.com
 www.hama.s5.com
 www.hannliveonline.com
+www.hannonline.ph
 www.hanpijesak.s5.com
 www.hawkgaming.com
 www.hitmeback.s5.com
@@ -6694,6 +6804,7 @@ www.luckpot.ph
 www.luckyi.com
 www.luckytayasports.com
 www.luckyworld.ph
+www.m.789bingo.com
 www.maelo.s5.com
 www.mal.s5.com
 www.malesherbes.s5.com
@@ -6711,6 +6822,7 @@ www.mondriaan.s5.com
 www.msw.ph
 www.mundosageo.s5.com
 www.navy-seal.s5.com
+www.ninogaming.com
 www.nustargame.ph
 www.octubre2003.s5.com
 www.okadaonlinecasino.com
@@ -6722,6 +6834,7 @@ www.pianist.s5.com
 www.pin77.com
 www.pisogame.com
 www.play.s5.com
+www.playdailyfantasy.com
 www.playtime.ph
 www.ppl.747.live
 www.profundidad.s5.com
@@ -6752,10 +6865,12 @@ www.sulobet.ph
 www.tobeannounced.s5.com
 www.tuckerlionsclub.s5.com
 www.uniformes.s5.com
+www.webmail.789bingo.com
 www.wilyonaryo.com
 www.winzir.ph
 www.worldsfinestwebs.s5.com
 www.wowgames.com
+www1.arionplay.com
 wwwk.s5.com
 wwws4.bizimalem.s5.com
 wyrmgeistphotos.s5.com
